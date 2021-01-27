@@ -10,7 +10,7 @@ setuptools.setup(
     description="A python log colorizer",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="",
+    url="https://github.com/kevforget/colog",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
